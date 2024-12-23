@@ -25,6 +25,8 @@ Bem-vindo ao meu perfil! Aqui você pode ver minhas habilidades, interesses e mu
     <li>🔗 <a href="https://www.linkedin.com/in/wesleygmarin/" target="_blank">LinkedIn</a></li>
   </ul>
 </div>
+![image](https://github.com/user-attachments/assets/e17a578b-5768-4aa9-ab76-47f752dd4c1c)
+
 
 <div>
   <h3>🔄 Contribuições para Open Source</h3>
