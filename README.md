@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil! Aqui você pode ver minhas habilidades, interesses e mu
   <h3>🔧 Tecnologias que eu uso</h3>
   <p>Eu sou apaixonado por trabalhar com as seguintes tecnologias:</p>
   <ul>
-    <li>💻 <b>JavaScript <a href="https://www.flaticon.com/br/icones-gratis/html" title="html ícones">Html ícones criados por Freepik - Flaticon</a></b> - Para criar experiências dinâmicas na web.</li>
+    <li>💻 <b>JavaScript</b> - Para criar experiências dinâmicas na web.</li>
     <li>⚡ <b>React</b> - Construção de interfaces de usuário modernas e responsivas.</li>
     <li>🌐 <b>HTML/CSS</b> - Para criar sites e páginas web atraentes e funcionais.</li>
   </ul>
