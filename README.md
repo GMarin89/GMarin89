@@ -22,7 +22,18 @@ Bem-vindo ao meu perfil! Aqui você pode ver minhas habilidades, interesses e mu
   <p>Você pode me encontrar em:</p>
   <ul>
     <li>📧 <a href="mailto:wesley.giuliano@gmail.com">Email</a></li>
-    <li>  <a href="https://www.linkedin.com/in/wesleygmarin/" class="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a></li> 
+    <li>  <a href="https://www.linkedin.com/in/wesleygmarin/" </a></li> 
+      <a href="https://github.com/seuusuario" target="_blank" title="GitHub">
+        <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub">
+      </a>
+      <a href="https://twitter.com/seuusuario" target="_blank" title="Twitter">
+        <img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" alt="Twitter">
+      </a>
+    </div>
+    
+    <a href="https://www.linkedin.com/in/seuusuario" class="linkedin-button" target="_blank">Conecte-se comigo no LinkedIn</a>
+    <a href="https://seuportfolio.com" class="button" target="_blank">Visite meu Portfólio</a>
+  </div>
   </ul>
 </div>
 
