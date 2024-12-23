@@ -30,10 +30,14 @@ Bem-vindo ao meu perfil! Aqui você pode ver minhas habilidades, interesses e mu
  <a href="mailto:wesley.giuliano@gmail.com" title="Visite meu email">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a> 
+<br>
+<br>
     
   <a href="https://www.linkedin.com/in/wesleygmarin/" title="Visite meu linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="meu linkedin">
 </a> 
+<br>
+<br>
     	
   </div>
   <h3>🔄 Contribuições para Open Source</h3>
