@@ -25,7 +25,7 @@ Bem-vindo ao meu perfil! Aqui você pode ver minhas habilidades, interesses e mu
     <li>  <a href="https://www.linkedin.com/in/wesleygmarin/" target="_blank"/>LinkedIn</a></li>
   </ul>
 
-  <img src https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </div>
 
 <div>
