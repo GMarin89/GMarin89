@@ -23,9 +23,9 @@ Bem-vindo ao meu perfil! Aqui você pode ver minhas habilidades, interesses e mu
   <ul>
     <li>📧 <a href="mailto:wesley.giuliano@gmail.com">Email</a></li>
     <li> <a href="https://www.exemplo.com" title="Visite o site">
-  <img src="icone.png" alt="Ícone do site" style="width: 40px; height: 40px;">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ícone do site" style="width: 40px; height: 40px;">
 </a> </li>
-    
+    	
   </div>
   <h3>🔄 Contribuições para Open Source</h3>
   <p>Eu sou um grande fã de contribuir para projetos open source. Se você tem um projeto interessante e precisa de colaboração, fique à vontade para me chamar!</p>
