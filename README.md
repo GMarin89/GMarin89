@@ -20,7 +20,7 @@ Bem-vindo ao meu perfil! Aqui você pode ver minhas habilidades, interesses e mu
 <div>
   <h3>📬 Vamos conversar?</h3>
   <p>Você pode me encontrar em:</p>
-  <ul>
+
 
   <li> <a href="https://www.instagram.com/wesley_giuliano/" title="Visite meu insta">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
