@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Olá, sou [Seu Nome]! 👋
+# Sou Wesley Giuliano Marin! 👋
 
 Bem-vindo ao meu perfil! Aqui você pode ver minhas habilidades, projetos e muito mais!
 
@@ -10,7 +10,6 @@ Bem-vindo ao meu perfil! Aqui você pode ver minhas habilidades, projetos e muit
   <ul>
     <li>💻 <b>JavaScript</b> - Para criar experiências dinâmicas na web.</li>
     <li>⚡ <b>React</b> - Construção de interfaces de usuário modernas e responsivas.</li>
-    <li>🐍 <b>Python</b> - Para automação, análise de dados e desenvolvimento de IA.</li>
     <li>🌐 <b>HTML/CSS</b> - Para criar sites e páginas web atraentes e funcionais.</li>
   </ul>
 </div>
@@ -48,9 +47,8 @@ Bem-vindo ao meu perfil! Aqui você pode ver minhas habilidades, projetos e muit
   <h3>📬 Vamos conversar?</h3>
   <p>Você pode me encontrar em:</p>
   <ul>
-    <li>💬 <a href="https://twitter.com/seu_perfil" target="_blank">Twitter</a></li>
-    <li>📧 <a href="mailto:seuemail@gmail.com">Email</a></li>
-    <li>🔗 <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">LinkedIn</a></li>
+    <li>📧 <a href="mailto:wesley.giuliano@gmail.com">Email</a></li>
+    <li>🔗 <a href="https://www.linkedin.com/in/wesleygmarin/" target="_blank">LinkedIn</a></li>
   </ul>
 </div>
 
@@ -58,3 +56,4 @@ Bem-vindo ao meu perfil! Aqui você pode ver minhas habilidades, projetos e muit
   <h3>🔄 Contribuições para Open Source</h3>
   <p>Eu sou um grande fã de contribuir para projetos open source. Se você tem um projeto interessante e gostaria de colaborar, fique à vontade para me chamar!</p>
 </div>
+
