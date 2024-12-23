@@ -14,7 +14,7 @@ Bem-vindo ao meu perfil! Aqui você pode ver minhas habilidades, interesses e mu
 
 <div>
   <h3>👨‍💻 Sobre mim</h3>
-  <p>Sou desenvolvedor e entusiasta de tecnologias, sempre aprendendo novas ferramentas e buscando resolver problemas criativos com código. Gosto de colaborar com outros desenvolvedores e aprender com a comunidade open source.</p>
+  <p>Sou desenvolvedor e entusiasta de tecnologias, sempre aprendendo novas ferramentas e buscando resolver problemas criativos com código. Estudante em Tecnologia e Segurança da Informação pela Universidade Paulista (UNIP) e também em Dev. Front End pela DevClub, Gosto de colaborar com outros desenvolvedores e aprender com a comunidade open source.</p>
 </div>
 
 <div>
@@ -28,5 +28,5 @@ Bem-vindo ao meu perfil! Aqui você pode ver minhas habilidades, interesses e mu
 
 <div>
   <h3>🔄 Contribuições para Open Source</h3>
-  <p>Eu sou um grande fã de contribuir para projetos open source. Se você tem um projeto interessante e gostaria de colaborar, fique à vontade para me chamar!</p>
+  <p>Eu sou um grande fã de contribuir para projetos open source. Se você tem um projeto interessante e precisa de colaboração, fique à vontade para me chamar!</p>
 </div>
