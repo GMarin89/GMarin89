@@ -1,4 +1,4 @@
-# Olá, sou Wesley Giuliano Marin! 👋
+# Olá, sou Wesley Giuliano Marin (ou somente GIU)! 👋
 
 Bem-vindo ao meu perfil! Aqui você pode ver minhas habilidades, interesses e muito mais!
 
