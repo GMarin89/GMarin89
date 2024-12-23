@@ -24,7 +24,7 @@ Bem-vindo ao meu perfil! Aqui você pode ver minhas habilidades, interesses e mu
     <li>📧 <a href="mailto:wesley.giuliano@gmail.com">Email</a></li>
     <li> 
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-      <a href="https://www.linkedin.com/in/wesleygmarin/"></a></li> 
+      <a href="https://www.linkedin.com/in/wesleygmarin/"> none </a></li> 
     
   </div>
   <h3>🔄 Contribuições para Open Source</h3>
