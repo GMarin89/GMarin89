@@ -25,7 +25,8 @@ Bem-vindo ao meu perfil! Aqui você pode ver minhas habilidades, interesses e mu
   <a href="https://www.instagram.com/wesley_giuliano/" title="Visite meu insta">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a> 
-
+<br>
+<br>
  <a href="mailto:wesley.giuliano@gmail.com" title="Visite meu email">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a> 
