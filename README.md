@@ -1,8 +1,6 @@
-## Hi there 👋
+# Olá, sou Wesley Giuliano Marin! 👋
 
-# Sou Wesley Giuliano Marin! 👋
-
-Bem-vindo ao meu perfil! Aqui você pode ver minhas habilidades, projetos e muito mais!
+Bem-vindo ao meu perfil! Aqui você pode ver minhas habilidades, interesses e muito mais!
 
 <div>
   <h3>🔧 Tecnologias que eu uso</h3>
@@ -20,30 +18,6 @@ Bem-vindo ao meu perfil! Aqui você pode ver minhas habilidades, projetos e muit
 </div>
 
 <div>
-  <h3>📈 Estatísticas do GitHub</h3>
-  <p>Veja como estou me saindo no GitHub:</p>
-  <a href="https://github.com/github_user" target="_blank">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=github_user&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" />
-  </a>
-  <a href="https://github.com/github_user" target="_blank">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=github_user&layout=compact&langs_count=6&theme=radical" />
-  </a>
-</div>
-
-<div>
-  <h3>📂 Meus Projetos</h3>
-  <p>Aqui estão alguns dos projetos mais legais que eu desenvolvi:</p>
-  <ul>
-    <li>
-      <a href="https://github.com/github_user/projeto-1" target="_blank">Projeto 1</a> - Uma aplicação incrível que faz XYZ.
-    </li>
-    <li>
-      <a href="https://github.com/github_user/projeto-2" target="_blank">Projeto 2</a> - Uma ferramenta útil para ABC.
-    </li>
-  </ul>
-</div>
-
-<div>
   <h3>📬 Vamos conversar?</h3>
   <p>Você pode me encontrar em:</p>
   <ul>
@@ -56,4 +30,3 @@ Bem-vindo ao meu perfil! Aqui você pode ver minhas habilidades, projetos e muit
   <h3>🔄 Contribuições para Open Source</h3>
   <p>Eu sou um grande fã de contribuir para projetos open source. Se você tem um projeto interessante e gostaria de colaborar, fique à vontade para me chamar!</p>
 </div>
-
