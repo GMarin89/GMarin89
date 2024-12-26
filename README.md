@@ -3,6 +3,11 @@
 Bem-vindo ao meu perfil! Aqui você pode ver minhas habilidades, interesses e muito mais!
 
 <div>
+  <h3>👨‍💻 Sobre mim</h3>
+  <p>Sou desenvolvedor e entusiasta de tecnologias, sempre aprendendo novas ferramentas e buscando resolver problemas criativos com código. Estudante em Tecnologia e Segurança da Informação pela Universidade Paulista (UNIP) e também em Dev. Front End pela DevClub, gosto de colaborar com outros desenvolvedores e aprender com a comunidade open source.</p>
+</div>
+
+<div>
   <h3>🔧 Tecnologias que eu uso</h3>
   <p>Atualmente, desenvolvo meus porjetos usando as seguitnes tecnologias:</p>
   <ul>
@@ -11,11 +16,6 @@ Bem-vindo ao meu perfil! Aqui você pode ver minhas habilidades, interesses e mu
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
   </ul>
-</div>
-
-<div>
-  <h3>👨‍💻 Sobre mim</h3>
-  <p>Sou desenvolvedor e entusiasta de tecnologias, sempre aprendendo novas ferramentas e buscando resolver problemas criativos com código. Estudante em Tecnologia e Segurança da Informação pela Universidade Paulista (UNIP) e também em Dev. Front End pela DevClub, Gosto de colaborar com outros desenvolvedores e aprender com a comunidade open source.</p>
 </div>
 
 <div>
