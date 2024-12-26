@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil! Aqui você pode ver minhas habilidades, interesses e mu
 
 <div>
   <h3>🔧 Tecnologias que eu uso</h3>
-  <p>Trabalhando com as seguintes tecnologias:</p>
+  <p>Atualmente, tenho desenvolvo meus porjetos usando as seguitnes tecnologias:</p>
   <ul>
     <li> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </li>
     <li> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </li>
