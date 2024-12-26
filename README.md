@@ -4,11 +4,12 @@ Bem-vindo ao meu perfil! Aqui você pode ver minhas habilidades, interesses e mu
 
 <div>
   <h3>🔧 Tecnologias que eu uso</h3>
-  <p>Eu sou apaixonado por trabalhar com as seguintes tecnologias:</p>
+  <p>Trabalhando com as seguintes tecnologias:</p>
   <ul>
-    <li>💻 <b>JavaScript</b> - Para criar experiências dinâmicas na web.</li>
-    <li>⚡ <b>React</b> - Construção de interfaces de usuário modernas e responsivas.</li>
-    <li>🌐 <b>HTML/CSS</b> - Para criar sites e páginas web atraentes e funcionais.</li>
+    <li> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </li>
+    <li> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </li>
+    <li> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> </li>
+    <li> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> </li>
   </ul>
 </div>
 
