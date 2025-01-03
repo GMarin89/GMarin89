@@ -44,3 +44,6 @@ Bem-vindo ao meu perfil! Aqui você pode ver minhas habilidades, interesses e mu
   <h3>🔄 Contribuições para Open Source</h3>
   <p>Eu sou um grande fã de contribuir para projetos open source. Se você tem um projeto interessante e precisa de colaboração, fique à vontade para me chamar!</p>
 </div>
+
+
+![GMarin GitHub stats](https://github-readme-stats.vercel.app/api?username=GMarin89&theme=dark&show_icons=true)
