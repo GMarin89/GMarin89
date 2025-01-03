@@ -18,6 +18,9 @@ Bem-vindo ao meu perfil! Aqui você pode ver minhas habilidades, interesses e mu
   </ul>
 </div>
 
+![GMarin GitHub stats](https://github-readme-stats.vercel.app/api?username=GMarin89&show_icons=true&theme=tokyonight)
+
+
 <div>
   <h3>📬 Vamos conversar?</h3>
   <p>Você pode me encontrar em:</p>
@@ -46,4 +49,4 @@ Bem-vindo ao meu perfil! Aqui você pode ver minhas habilidades, interesses e mu
 </div>
 
 
-![GMarin GitHub stats](https://github-readme-stats.vercel.app/api?username=GMarin89&show_icons=true&theme=tokyonight)
+
